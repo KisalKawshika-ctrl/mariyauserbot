@@ -19,7 +19,7 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy mariya userbot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kisalkawshika-ctrl/mariyauserbotsandy1709%2Fcatuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kisalkawshika-ctrl/mariyauserbot)
 
   <details>
     <summary>Steps to deploy on Heroku !! </summary>
