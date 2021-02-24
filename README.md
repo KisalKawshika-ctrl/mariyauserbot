@@ -1,6 +1,6 @@
-# CatUserbot
+# mariya userbot
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/b7dc845e3a48cde0d7bb1.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
+[![mariyauserbot logo](https://telegra.ph/file/af819fad38708f8cbe378.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
 [![HitCount](http://hits.dwyl.com/sandy1709/catuser.svg)](http://hits.dwyl.com/sandy1709/catuser)
 [![CodeFactor](https://www.codefactor.io/repository/github/sandy1709/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/sandy1709/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -17,9 +17,9 @@ A simple Telegram userbot based on Telethon .
 
 
 
-## How to deploy catuserbot
+## How to deploy mariya userbot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kisalkawshika-ctrl/mariyauserbotsandy1709%2Fcatuserbot)
 
   <details>
     <summary>Steps to deploy on Heroku !! </summary>
@@ -48,7 +48,7 @@ A simple Telegram userbot based on Telethon .
 ```
               YOU ARE FOREWARNED
 Your Telegram account may get banned.   
-Catuserbot or we are not responsible for your account, 
+mariyauserbot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -63,7 +63,3 @@ and we or our friends will try to help you.
 Thanks for using our bot 😺
 ```
 
-## Credits
-   - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon libraray
-   - To all devs of these [Userbots](https://github.com/sandy1709/catuserbot/tree/bugs#inspiration)
-   - Finally to all [contributors of Catuserbot](https://github.com/sandy1709/catuserbot/graphs/contributors)
